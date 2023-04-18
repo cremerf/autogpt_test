@@ -16,3 +16,6 @@ class DWHPaths():
         # Path to AWS json keys
         self.EXTRACT_KEYS = os.path.join(self.CREDENTIALS, str(os.listdir(self.CREDENTIALS)[1]))
 
+
+print()        
+
